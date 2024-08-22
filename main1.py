@@ -4,7 +4,7 @@ import telebot
 from pymongo import MongoClient
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-bot = telebot.TeleBot("6666846921:AAGJU9TIBKHBlRfK2uCijCKvRH1tSCsqWVg")
+bot = telebot.TeleBot("")
 
 
 class DataBase:
