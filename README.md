@@ -1,4 +1,4 @@
-This is my Telegram Bot for Gedzio Park in Yaremche. 
+This is my Telegram Bot for a GPark . 
 The main idea of this bot is a quiz, which bot makes for visitors. 
 It asks questions, and users should find answers by reading legends, which located in different places in this Park. There are 5 ways of legends, 8 questions and for 4 answers in each. 
 
